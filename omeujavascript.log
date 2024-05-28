@@ -1,0 +1,177 @@
+commit de8553eda1aec20b7197081da48db088dd9e8373
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue May 28 18:16:12 2024 +0100
+
+    php, base de dados, falta java
+
+commit c11428df2928e32b3091b3bffe11eb1f30260efc
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue May 21 17:24:29 2024 +0100
+
+    Create script
+
+commit 9cd4cdf2271479044cde5c8d9c86ec8826b0dfbb
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue May 21 17:22:06 2024 +0100
+
+    Update Detalhe.css
+
+commit a9132b3ce83396ae37d61f9e019dbeb5826a35bb
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue May 21 17:21:47 2024 +0100
+
+    Update Registo.css
+
+commit d11d13502d156f3a2c8710d505e64032b25972a2
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue May 21 17:21:10 2024 +0100
+
+    Create Registo.css
+
+commit 6d1d34aa6efa63ebd39718e8e01331367f86692e
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue May 21 17:20:43 2024 +0100
+
+    Create Detalhe.css
+
+commit 6803a40d0f838595e9c0277e8529e1c4dbc77fe2
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue May 21 17:19:58 2024 +0100
+
+    Rename Cabeçalho to Cabeçalho.css
+
+commit 1715035c8cc4bbe317b9855e725d9008fb77c808
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue May 21 17:19:27 2024 +0100
+
+    Cabeçalho
+
+commit 1aee7e2b2136317b39695394623ec6a330c2252e
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue May 14 18:51:56 2024 +0100
+
+    Removi ficheiro a mais
+
+commit 053f6a584b6aea06bcfd4691d0dee40062710f45
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue May 14 18:45:40 2024 +0100
+
+    Primeira edição dos ficheiros, Guião W1
+
+commit 523c3229eae2411c5d3f97804287ee955332a361
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue May 14 17:27:01 2024 +0100
+
+    Apaguei imagens
+
+commit 46ae2157687de4ed156a60194d998a097f64133d
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue May 14 17:21:01 2024 +0100
+
+    Novos diretórios
+
+commit 510e8a710d3ea265541d9e3593757a057cd386cd
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue Apr 30 18:02:19 2024 +0100
+
+    Update README.md
+
+commit 1c22bfd7e6ec3cbc398d370d6219fa66a81b668f
+Author: Nuno Ventura <1211643@isep.ipp.pt>
+Date:   Tue Apr 30 17:41:03 2024 +0100
+
+    Nuno
+
+commit 9137e10d1bfe4e78fbba91d605313cd433a90645
+Merge: 918ca35 f5e1268
+Author: Joao Nakamura <1211643@isep.ipp.pt>
+Date:   Tue Apr 30 17:29:56 2024 +0100
+
+    Merge branch 'main' of github.com:oscarealG/deapc_w0
+
+commit 918ca3524de81ff93597f5ef4926b7cb90521ecd
+Merge: 0b70bd9 e561720
+Author: Joao Nakamura <1211643@isep.ipp.pt>
+Date:   Tue Apr 30 17:28:18 2024 +0100
+
+    Merge branch 'main' of github.com:oscarealG/deapc_w0
+
+commit f5e1268beaeff71d48cea4d107fa2082ad82d3d9
+Merge: 2dfbffc e561720
+Author: Gonçalo <goncalocpereira03@gmail.com>
+Date:   Tue Apr 30 17:27:00 2024 +0100
+
+    Merge branch 'main' of github.com:oscarealG/deapc_w0
+
+commit 2dfbffcff01965ebb38fd5049022b8af72a50539
+Author: Gonçalo <goncalocpereira03@gmail.com>
+Date:   Tue Apr 30 17:24:26 2024 +0100
+
+    alteração
+
+commit 0b70bd97a6c8e70837caa485c2c1a45d437d8ffc
+Author: Joao Nakamura <1211643@isep.ipp.pt>
+Date:   Tue Apr 30 17:17:24 2024 +0100
+
+    Nuno1
+
+commit aa2aa0b00f53272128748e6aa48c69ba5ed7e5a3
+Author: Gonçalo <goncalocpereira03@gmail.com>
+Date:   Tue Apr 30 17:16:13 2024 +0100
+
+    goncalo1
+
+commit e5617201e286cc8e316015494f558bf71f163e7a
+Merge: e530bb6 6092e49
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue Apr 30 17:14:35 2024 +0100
+
+    Merge branch 'main' of github.com:oscarealG/deapc_w0
+
+commit 70d5df92c3a8dbbbbb13e7031ad4b93cb5bbf630
+Author: Gonçalo <goncalocpereira03@gmail.com>
+Date:   Tue Apr 30 17:13:55 2024 +0100
+
+    gonçalo
+
+commit 6092e496c5c52a06f0a156f2af79ed8bce18f208
+Author: Gonçalo Pereira <167897499+pereirac03@users.noreply.github.com>
+Date:   Tue Apr 30 17:11:45 2024 +0100
+
+    Update README.md
+
+commit 6d405292f85a9eef202b8002ba4a7bae248858fb
+Author: Joao Nakamura <1211643@isep.ipp.pt>
+Date:   Tue Apr 30 17:09:10 2024 +0100
+
+    Nuno
+
+commit e530bb6f12081e9c82ce4a41d4da10182b3f76de
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue Apr 30 17:09:10 2024 +0100
+
+    alteracao2
+
+commit bfae9cf9baf778b4ed737ee6fd829a3c82ef6069
+Author: Nuno Ventura <132362502+1201325@users.noreply.github.com>
+Date:   Tue Apr 30 16:48:22 2024 +0100
+
+    Update README.md
+
+commit 5f8999d9ed1f5bfa9a56aa12b52eddd011dc7432
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue Apr 23 16:54:37 2024 +0100
+
+    alteracao1
+
+commit 0d2ef1e3d405bbc5d560a3b361a28c71894ec4ca
+Author: oscarealg <1171424@isep.ipp.pt>
+Date:   Tue Apr 23 16:49:44 2024 +0100
+
+    alteracao
+
+commit e3462e547f2702e7cb87649fec8cb81a5c394c20
+Author: oscarealG <167890180+oscarealG@users.noreply.github.com>
+Date:   Tue Apr 23 16:33:02 2024 +0100
+
+    Initial commit
