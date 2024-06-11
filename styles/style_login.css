@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:borrder-box;
+    font-family:"poppins",sans-serif;
+}
+body{
+    background-image:url('../imagens/fundo1.png') ;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+img.logo {
+    max-width: 120px;
+    margin-bottom: 20px;
+}    
+.container{
+    background: #fff;
+    width: 450px;
+    padding: 1.5rem;
+    margin:50px auto;
+    border-radius: 10px;
+    box-shadow: 0 20px 35px rgba(0,0,1,0,9);
+}
+form{
+    margin:0 2rem;
+}
+.form-title{
+    font-size: 1.5rem;
+    font-weight:bold;
+    text-align:center;
+    padding:1.3rem;
+    margin-bottom:0.4rem;
+}
+input{
+    color:inherit;
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.input-group{
+    padding:1% 0;
+    position:relative;
+}
+.input-group i{  
+    position:absolute;
+    color:black;
+}
+input:focus{
+    background-color: transparent;
+    outline: transparent;
+    border-bottom: 2px solid black;
+}
+.recover{
+    text-align: right;
+    font-size: 1rem;
+    margin-bottom:1rem;
+}
+.recover a{
+    text-decoration:none;
+    color: #3983b1;
+}
+.recover a:hover{
+    color:blue;
+    text-decoration: underline;
+}
+.btn{
+    font-size:0.9rem;
+    padding:8px 0;
+    border-radius:5px;
+    outline:none;
+    border:none;
+    width:100%;
+    background: #3983b1 ;
+    color: white;
+    cursor:pointer;
+    transition:0.9s;
+}
+.btn:hover{
+    background: #07001f;
+}
+.or{
+    font-size:1.1rem;
+    margin-top:0.5rem;
+    text-align:center;
+}
+.links{
+    display:flex;
+    justify-content:space-evenly;
+    padding: 0 4rem;
+    margin-top:0.9rem;
+    font-weight: bold;
+}
+button{
+    color:#3983b1;
+    border:none;
+    background-color: transparent;
+    font-size: 1rem;
+    font-weight: bold;
+}
+button:hover{
+    text-decoration: underline;
+    color:blue;
+}
