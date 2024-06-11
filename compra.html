@@ -1,50 +1,40 @@
-<!DOCTYPE html>
-<html>
+<html lang="pt">
 <head>
   <title>Página de Pagamento</title>
-  <style>
-     body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-
-    h1 {
-      text-align: center;
-    }
-
-    .event-details {
-      margin-top: 20px;
-    }
-
-    .event-details img {
-      max-width: 400px;
-      display: block;
-      margin: 0 auto;
-    }
-
-    .event-details p {
-      text-align: center;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Página de Pagamento</h1>
+  <div class="container">
+    <h1>Página de Pagamento</h1>
 
-  <form id="payment-form">
-    <label for="card-number">Número do Cartão de Crédito:</label>
-    <input type="text" id="card-number" required>
+    <form id="payment-form">
+      <div class="form-group">
+        <label for="card-number">Número do Cartão de Crédito:</label>
+        <input type="text" id="card-number" required class="with-icon">
+        <i class="fas fa-credit-card"></i>
+      </div>
 
-    <label for="card-holder">Titular do Cartão:</label>
-    <input type="text" id="card-holder" required>
+      <div class="form-group">
+        <label for="card-holder">Titular do Cartão:</label>
+        <input type="text" id="card-holder" required class="with-icon">
+        <i class="fas fa-user"></i>
+      </div>
 
-    <label for="expiration-date">Data de Expiração:</label>
-    <input type="text" id="expiration-date" required>
+      <div class="form-group">
+        <label for="expiration-date">Data de Expiração:</label>
+        <input type="text" id="expiration-date" required class="with-icon">
+        <i class="fas fa-calendar-alt"></i>
+      </div>
 
-    <label for="cvv">CVV:</label>
-    <input type="text" id="cvv" required>
+      <div class="form-group">
+        <label for="cvv">CVV:</label>
+        <input type="text" id="cvv" required class="with-icon">
+        <i class="fas fa-lock"></i>
+      </div>
 
-    <button type="submit">Pagar</button>
-  </form>
+      <button type="submit">Pagar</button>
+    </form>
+  </div>
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -72,5 +62,7 @@
       });
     });
   </script>
+  <!-- Incluindo a biblioteca de ícones FontAwesome -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </body>
 </html>
